@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    font-family: 'Cantora One', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+nav ul{
+    text-decoration: none;
+    display: flex;
+}
+nav li{
+    list-style: none;
+  margin-left: 50px;
+}
